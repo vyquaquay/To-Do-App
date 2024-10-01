@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
+        //cmt to push chekc
         tasklist = new ArrayList<>();
 
         taskRecycleview = findViewById(R.id.tasksRecyclerView);
